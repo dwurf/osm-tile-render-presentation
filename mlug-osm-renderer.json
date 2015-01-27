@@ -1,0 +1,523 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 25,
+          "y": 623,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>by Darren Wurf<br><a href=\"http://mailto:darren.wurf@gmail.com\">darren.wurf@gmail.com</a><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 41,
+          "y": 36,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div align=\"center\">Rendering OpenStreetMap Tiles<br></div><div align=\"center\">for offline use<br></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": true,
+      "active": true,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 287,
+          "y": 13,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "OpenStreetMap",
+          "selected": false,
+          "skewX": 0
+        },
+        {
+          "TextBox": {},
+          "x": 53,
+          "y": 114,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li>Map data - highways, POI, restaurants, ...<br></li></ul><br><ul><li><font>Collaboratively edited</font></li></ul><br><ul><li>Fairly open license<br></li></ul><br><ul><li><a href=\"http://openstreetmap.org/\">openstreetmap.org</a> - rendered map data</li></ul><br><ul><li>Data can be downloaded</li></ul><p><br></p><ul><li>Tiles cannot be downloaded (server load)<br></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 460,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 184,
+          "y": 281,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "But I want tiles!<br>",
+          "selected": false,
+          "skewX": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 467,
+      "y": 416
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 324,
+          "y": 18,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "Approaches",
+          "selected": false,
+          "skewX": 0
+        },
+        {
+          "TextBox": {},
+          "x": 54,
+          "y": 185,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li>Render tiles on-demand</li></ul><p><br></p><ul><li><font>Pre-render a bunch of tiles<br></font></li></ul><br><ul><li>Download the tiles anyway...<br></li></ul><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 473,
+      "y": 491
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 332,
+          "y": 16,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "Pre-rendering",
+          "selected": false,
+          "skewX": 0
+        },
+        {
+          "TextBox": {},
+          "x": 241,
+          "y": 335,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "Let's render all of Australia!<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.57,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 910,
+      "y": 416
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 329,
+          "y": 326,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "2.2 TB, 1.3 billion tiles<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.57,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 962,
+      "y": 418
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 332,
+          "y": 16,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "Pre-rendering",
+          "selected": false,
+          "skewX": 0
+        },
+        {
+          "TextBox": {},
+          "x": 241,
+          "y": 335,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "Let's render all of Victoria!<br>",
+          "selected": false
+        }
+      ],
+      "z": 90,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.57,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 1237,
+      "y": 418
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 297,
+          "y": 322,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "112 GB, 47 million tiles<br>",
+          "selected": false
+        }
+      ],
+      "z": 90,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.57,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 1313,
+      "y": 423
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 332,
+          "y": 16,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "Pre-rendering",
+          "selected": false,
+          "skewX": 0
+        },
+        {
+          "TextBox": {},
+          "x": 147,
+          "y": 337,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "Okay, let's just render what we need...<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.57,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 1619,
+      "y": 415
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 271,
+          "y": 226,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 209,
+          "text": "How?",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 10,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 1196,
+      "y": 883
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 317,
+          "y": 30,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#000000\">How to render<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 72,
+          "y": 161,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "Use the same tools as OpenStreetMap.org!<br><br><ul><li>PostGIS database</li></ul><p><br></p><ul><li>Mapnik renderer</li></ul><p><br></p><ul><li>CartoCSS styling (from TileMill)<br></li></ul><p><br></p><ul><li>Leaflet.js map widget<br></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 0.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 1076,
+      "y": 896
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 305,
+          "y": 30,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "The meaty bits<font color=\"#000000\"><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 136,
+          "y": 297,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<a href=\"http://git.io/osm-tile-render\">http://git.io/osm-tile-render</a><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 0.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 1178,
+      "y": 880
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 447,
+          "y": 29,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "Sites",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 58,
+          "y": 171,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<a href=\"http://strut.io/\">strut.io</a> presentation editor<br><br><a href=\"http://tools.geofabrik.de/calc\">tools.geofabrik.de/calc</a> tile size calculator<br><br><a href=\"http://openstreetmap.org\">openstreetmap.org</a> online maps<br><br><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 1886,
+      "y": 880
+    }
+  ],
+  "background": "bg-solid-light",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 25,
+        "y": 623,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 48,
+        "text": "<font>by Darren Wurf<br><a href=\"http://mailto:darren.wurf@gmail.com\">darren.wurf@gmail.com</a><br></font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 41,
+        "y": 36,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 64,
+        "text": "<div align=\"center\">Rendering OpenStreetMap Tiles<br></div><div align=\"center\">for offline use<br></div>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 0,
+    "selected": true,
+    "active": true,
+    "x": 180,
+    "y": 180
+  },
+  "fileName": "mlug-osm-renderer",
+  "overviewX": 1033,
+  "overviewY": 538,
+  "cannedTransition": "concave"
+}
